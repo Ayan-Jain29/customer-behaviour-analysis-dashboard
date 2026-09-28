@@ -41,15 +41,6 @@ The SQL analysis covers customer revenue, discounts, product ratings, shipping t
 
 The Power BI dashboard is used to visualize customer behaviour and business insights interactively.
 
-Dashboard screenshots will be added here.
-
-## Future Updates
-
-- Add Python analysis and preprocessing code
-- Add dashboard screenshots
-- Add dataset/sample dataset if appropriate
-- Update project documentation with key findings
-
 ## Author
 
 **Ayan Jain**
